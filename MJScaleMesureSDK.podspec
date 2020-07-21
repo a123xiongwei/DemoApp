@@ -15,11 +15,11 @@ Pod::Spec.new do |s|
   s.public_header_files = "Classes/Custom/MJScaleService.h"
   s.module_name = 'MJScaleMesure'
 
-  s.dependency 'IotLinkKit', '1.2.0'
-  s.dependency 'MBProgressHUD', '0.9.1'
+  s.dependency 'IotLinkKit',
+  s.dependency 'MBProgressHUD',
   s.dependency 'YYKit'
-  s.dependency 'AFNetworking', '~> 3.2.0'
-  s.dependency 'MJExtension', '~> 3.0.13'
+  s.dependency 'AFNetworking',
+  s.dependency 'MJExtension',
   s.dependency 'ReactiveCocoa',
   s.dependency 'ReactiveViewModel'
 
