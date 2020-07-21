@@ -35,7 +35,7 @@ Pod::Spec.new do |spec|
     s.dependency 'YYKit'
     s.dependency 'AFNetworking', '~> 3.2.0'
     s.dependency 'MJExtension', '~> 3.0.13'
-    s.dependency 'ReactiveCocoa', :git => 'https://github.com/zhao0/ReactiveCocoa.git', :tag => '2.5.2'
+    s.dependency 'ReactiveCocoa',
     s.dependency ''ReactiveViewModel'
   
 
