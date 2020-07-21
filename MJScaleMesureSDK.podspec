@@ -1,4 +1,4 @@
-Pod::Spec.new do |spec|
+Pod::Spec.new do |s|
 
   spec.name         = "MJScaleMesureSDK"
   spec.version      = "0.0.1"
